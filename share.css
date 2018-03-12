@@ -1,0 +1,45 @@
+*{
+			margin: 0;
+			padding: 0;
+		}
+		.clearfix:after{
+			content: '';
+			display: block;
+			visibility: hidden;
+		}
+		html{
+			font-size: 62.5%;
+		}
+		body{
+			background: #F9FAFC;
+			height: 100%;
+		}
+		.share{
+			height: 60%;
+			display: block;
+			width: 100%;
+		}
+		.mes{
+			margin-top: 20%;
+			height: 40%;			
+			
+		}
+		.mes .mes-detil:nth-child(1){
+			text-align: center;
+			color: #ff6600;
+		}
+		.mes .mes-detil{
+			/* position: absolute;
+			left: 50%;
+			top: 70%;
+			transform: translate(-50%, -50%); */
+			text-align: left;
+			width: 85%;
+			margin: 0 auto;
+			font-size: 1.9rem;
+			line-height: 4rem;
+		}
+		.mes .mes-detil>span{
+			color: #ff6600;
+			float: right;
+		}
