@@ -18,9 +18,10 @@
 			height: 60%;
 			display: block;
 			width: 100%;
+			margin-top: -5%;
 		}
 		.mes{
-			margin-top: 20%;
+			margin-top: 5%;
 			height: 40%;			
 			
 		}
@@ -36,8 +37,8 @@
 			text-align: left;
 			width: 85%;
 			margin: 0 auto;
-			font-size: 1.9rem;
-			line-height: 4rem;
+			font-size: 1.6rem;
+			line-height: 3.8rem;
 		}
 		.mes .mes-detil>span{
 			color: #ff6600;
